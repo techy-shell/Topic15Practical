@@ -1,4 +1,4 @@
-package org.example;
+package Topic15;
 
 public class Main {
     public static void main(String[] args) {

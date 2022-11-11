@@ -4,11 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b49ebd06-f948-42e0-b9d8-88f22fbdf6f9" name="Changes" comment="Added code &amp; test classes">
+    <list default="true" id="b49ebd06-f948-42e0-b9d8-88f22fbdf6f9" name="Changes" comment="Taxi class fixed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Taxi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Taxi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/TaxiCompany.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/TaxiCompany.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/TaxiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/TaxiTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Topic15/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Taxi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Topic15/Taxi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/TaxiCompany.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Topic15/TaxiCompany.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/TaxiCompanyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Topic15/TaxiCompanyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/TaxiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Topic15/TaxiTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668160674019</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Taxi class fixed">
+      <created>1668182541530</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668182541530</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -84,13 +93,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added code &amp; test classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added code &amp; test classes" />
+    <MESSAGE value="Taxi class fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Taxi class fixed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Taxi.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Topic15/Taxi.java</url>
           <line>29</line>
           <option name="timeStamp" value="17" />
         </line-breakpoint>

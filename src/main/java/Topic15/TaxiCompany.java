@@ -1,7 +1,8 @@
-package org.example;
+package Topic15;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+
 import java.util.ArrayList;
 
 //need to write an array of taxis
@@ -11,6 +12,7 @@ import java.util.ArrayList;
 public class TaxiCompany {
     private static final Logger LOGGER = LogManager.getLogger(TaxiCompany.class.getName());
     private ArrayList<Taxi> taxis;
+
 
     public boolean hasAvailableTaxis() {
         boolean hasTaxi = false;

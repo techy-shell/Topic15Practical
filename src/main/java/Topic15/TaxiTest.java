@@ -1,7 +1,6 @@
-package org.example;
-import org.apache.commons.math3.analysis.function.Multiply;
+package Topic15;
+import Topic15.Taxi;
 import org.joda.time.DateTime;
-import org.joda.time.Duration;
 import org.junit.jupiter.api.BeforeEach;
 
 import static org.junit.jupiter.api.Assertions.*;
@@ -18,6 +17,6 @@ class TaxiTest {
     @org.junit.jupiter.api.Test
     void calcCost() {
         double result = taxi.calcCost((st),(et));
-        assertEquals(10, result, "testing fare charge");
+        Assertions.assertEquals(10, result, "testing fare charge");
     }
 }
