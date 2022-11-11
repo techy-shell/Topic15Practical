@@ -11,6 +11,7 @@ import java.util.ArrayList;
 public class TaxiCompany {
     private static final Logger LOGGER = LogManager.getLogger(TaxiCompany.class.getName());
     private ArrayList<Taxi> taxis;
+
     public boolean hasAvailableTaxis() {
         boolean hasTaxi = false;
         for(Taxi taxi : taxis) {
